@@ -6,3 +6,9 @@ A CLI for calculating the number of tokens in a file.
 - Mutli-vendor support (OpenAI, Anthropic, Google)
 - 100% local, no API calls.
 - Fast (hopefully)
+
+## Roadmap
+- [ ] Zig-rewrite of `tiktoken`
+- [ ] Support for newest ChatGPT models
+- [ ] Try existing reverse engineered tokenizers for Claude models
+- [ ] Do same for Gemini models
